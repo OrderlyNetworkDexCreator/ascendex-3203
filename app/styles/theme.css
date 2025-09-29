@@ -1,11 +1,12 @@
 :root {
-  --oui-font-family: 'Manrope', sans-serif;
+  --oui-font-family: 'Roboto', sans-serif;
   --oui-font-size-base: 16px;
 
   /* colors */
   --oui-color-primary: 0 255 0;
   --oui-color-primary-light: 87 146 255;
   --oui-color-primary-darken: 0 105 149;
+  --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 87 146 255;
   --oui-color-link-light: 146 198 255;
@@ -94,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Manrope', sans-serif !important;
+  font-family: 'Roboto', sans-serif !important;
   font-size: 16px !important;
 }
